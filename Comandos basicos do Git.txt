@@ -1,0 +1,19 @@
+Abaixo segue a lista de alguns dos comandos básicos do Git e para que eles servem:
+
+git init: Este comando é usado para inicializar um novo repositório Git em um diretório existente.
+
+git add: Este comando é usado para adicionar arquivos ao índice do Git. Ele prepara os arquivos selecionados para serem commitados no repositório Git.
+
+git commit: Este comando é usado para confirmar as mudanças feitas nos arquivos do projeto e registrá-las no histórico de alterações do Git. É necessário fornecer uma mensagem de commit que descreva as alterações realizadas.
+
+git status: Este comando é usado para verificar o status atual do repositório Git. Ele mostra quais arquivos foram modificados, adicionados ou excluídos, e quais estão prontos para serem commitados.
+
+git branch: Este comando é usado para listar, criar ou excluir branches no repositório Git. Um branch é uma linha do tempo independente no repositório Git que pode ser usada para desenvolver recursos separados ou paralelos.
+
+git merge: Este comando é usado para combinar duas ou mais branches em um único branch. Isso é útil para incorporar as alterações feitas em uma branch em outra.
+
+git push: Este comando é usado para enviar as alterações confirmadas localmente para um repositório remoto do Git, como o GitHub ou o GitLab.
+
+git pull: Este comando é usado para atualizar o repositório local com as alterações feitas em um repositório remoto do Git.
+
+Esses são apenas alguns dos comandos básicos do Git, mas existem muitos outros comandos disponíveis para diferentes funções e usos. Espero que isso ajude!
